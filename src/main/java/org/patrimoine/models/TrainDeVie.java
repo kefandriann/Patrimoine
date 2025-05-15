@@ -1,0 +1,2 @@
+package org.patrimoine;public class TrainDeVie {
+}
