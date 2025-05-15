@@ -1,2 +1,4 @@
-package org.patrimoine;public record Personne() {
+package org.patrimoine.models;
+
+public record Personne(String nom) {
 }
